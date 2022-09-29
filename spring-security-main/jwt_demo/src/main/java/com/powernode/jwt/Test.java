@@ -30,6 +30,7 @@ public class Test {
             for (String s : auth) {
                 System.out.println(s);
             }
+			System.out.println("将该代码提交到github上");
         } else {
             System.out.println("登录信息已经过期");
         }
